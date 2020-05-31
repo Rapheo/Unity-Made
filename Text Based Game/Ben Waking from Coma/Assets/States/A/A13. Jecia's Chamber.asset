@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 812d4afa214d01a4090affdb17b2ac68, type: 3}
+  m_Name: A13. Jecia's Chamber
+  m_EditorClassIdentifier: 
+  storyText: "A13. Jecia's Chamber\r\nRick: Hey Jecia. I cooked something for you.
+    Here you go.\r\n\r\nJecia: Lets see it.\r\n\r\nRick: Have a taste.\r\n\r\nThey
+    ate the meat.\r\n\r\nJecia: Wow! it was delicious. What was it.\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+  nextState:
+  - {fileID: 11400000, guid: dbf11225d85813d4faba881558fec5e8, type: 2}
+  - {fileID: 0}

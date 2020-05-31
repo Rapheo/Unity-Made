@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 812d4afa214d01a4090affdb17b2ac68, type: 3}
+  m_Name: A12. Pablakhali
+  m_EditorClassIdentifier: 
+  storyText: "A12. Pablakhali\r\nRick looked for something to hunt for hours but in-vain.\r\n\r\nHe
+    was about to leave the forest.\r\n\r\nAt the way out he saw a bunch of rabbits.
+    He take a shoot at one.\r\n\r\nJackpot! He thought to himself. Took the rabbit
+    in his bag.\r\n\r\nOPTION:\r\n\r\n1.Feeling lucky....\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+  nextState:
+  - {fileID: 11400000, guid: a131778f47502c74eb16aa4aeceb0823, type: 2}
+  - {fileID: 0}
